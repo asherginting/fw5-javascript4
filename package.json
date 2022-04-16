@@ -1,0 +1,22 @@
+{
+  "name": "fw5-javascript4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asherginting/fw5-javascript4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asherginting/fw5-javascript4/issues"
+  },
+  "homepage": "https://github.com/asherginting/fw5-javascript4#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
